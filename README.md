@@ -364,9 +364,3 @@ Pour tester l'application, ouvrir deux fenêtres de navigateur côte à côte :
 **Établissement :** ENSIAS — Université Mohammed V de Rabat
 
 **Année universitaire :** 2025 – 2026
-
----
-
-## 📄 Licence
-
-MIT — voir `package.json` pour plus de détails.
